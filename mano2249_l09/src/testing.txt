@@ -1,0 +1,40 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 9 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2024-03-11
+ *
+ * -------------------------------------
+ */
+ Insert test values into heap:
+  insert: 11
+  insert: 7
+  insert: 15
+  insert: 6
+  insert: 9
+  insert: 12
+  insert: 18
+  insert: 8
+{8, 18, 12, 6, 15, 7, 9, 11, }
+Heap valid: 0
+------------------------------------------------
+Remove all data from heap:
+8, 18, 15, 12, 11, 9, 7, 6, 
+------------------------------------------------
+Use heapify with data
+Contents of heap in level order:
+{8, 18, 12, 6, 15, 7, 9, 11, }
+------------------------------------------------
+Call replace on root node
+Replacement value: 13
+Replaced (root) value: 8
+Contents of heap in level order:
+{18, 15, 12, 11, 13, 7, 9, 6, }
+------------------------------------------------
+Heap valid: 0
+Free the heap
+------------------------------------------------
+Heap Sort:
