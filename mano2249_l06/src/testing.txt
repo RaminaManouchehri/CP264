@@ -1,0 +1,75 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 6 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2023-10-05
+ *
+ * -------------------------------------
+ */
+
+-------------------------------------
+
+-------------------------------------
+Initialize stack
+Stack empty: TRUE
+Add data to stack:
+  Pushed: 0
+  Pushed: 1
+  Pushed: 2
+  Pushed: 3
+  Pushed: 4
+  Pushed: 5
+Stack empty: FALSE
+Stack peek: 5
+
+Contents of stack:
+5
+4
+3
+2
+1
+0
+Empty out the stack:
+  Popped: TRUE, 5
+  Popped: TRUE, 4
+  Popped: TRUE, 3
+  Popped: TRUE, 2
+  Popped: TRUE, 1
+  Popped: TRUE, 0
+Stack empty: TRUE
+Destroy the stack:
+Destroyed!
+
+-------------------------------------
+Initialize queue
+Queue empty: TRUE
+Add data to queue:
+  Inserted: 0
+  Inserted: 1
+  Inserted: 2
+  Inserted: 3
+  Inserted: 4
+  Inserted: 5
+Queue empty: FALSE
+Queue peek: 0
+
+Contents of queue:
+0
+1
+2
+3
+4
+5
+Empty out the queue:
+  Removed: TRUE, 0
+  Removed: TRUE, 1
+  Removed: TRUE, 2
+  Removed: TRUE, 3
+  Removed: TRUE, 4
+  Removed: TRUE, 5
+Queue empty: TRUE
+Destroy the queue:
+Destroyed!
