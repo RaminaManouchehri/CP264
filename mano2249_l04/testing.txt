@@ -1,0 +1,28 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 4 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2024-02-03
+ *
+ * -------------------------------------
+ */
+------------------------
+Test read_strings
+
+lines read: 3
+
+Contents of string array
+------------------------
+A short line
+A longer line
+A really long line that never seems to end and goes on and on
+
+------------------------
+Test strings_with_substring
+
+Enter substring: longer
+A longer line
+ 
